@@ -1,0 +1,49 @@
+_repo: The-Botanical-Magazine-Vol.-1--13-Or-Flower-Garden-Displayed_17198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, William
+    alias: Curtis, W. (William)
+    birthdate: 1746
+    deathdate: 1799
+    gutenberg_agent_id: '7233'
+    url: http://www.gutenberg.org/2009/agents/7233
+    wikipedia: http://en.wikipedia.org/wiki/William_Curtis
+description: ''
+gutenberg_bookshelf:
+- The Botanical Magazine
+- Horticulture
+gutenberg_issued: '2005-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17198'
+language: en
+publication_note: "LONDON:\r\n\r\nPrinted by Couchman and Fry, Throgmorton-Street,\r\
+  \nFor W. CURTIS, at his Botanic-Garden, Lambeth-Marsh;\r\nAnd Sold by the principal\
+  \ Booksellers in Great-Britain and Ireland.\r\n\r\nM DCC XC."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants, Ornamental -- Periodicals'
+- !lcsh 'Botanical illustration -- Periodicals'
+- !lcsh 'Plants -- Periodicals'
+- !lcc 'QK'
+- !lcsh 'Plants, Cultivated -- Periodicals'
+tableOfContents: "[1]—Iris Persica.\r\n  [2]—Rudbeckia purpurea.\r\n  [3]—Helleborus\
+  \ hyemalis.\r\n  [4]—Cyclamen Coum.\r\n  [5]—Erythronium Dens Canis.\r\n  [6]—Narcissus\
+  \ Minor.\r\n  [7]—Cynoglossum Omphalodes.\r\n  [8]—Helleborus Niger.\r\n  [9]—Iris\
+  \ pumila.\r\n[10]—Anemone Hepatica.\r\n[11]—Erica herbacea.\r\n[12]—Dodecatheon\
+  \ Meadia.\r\n[13]—Coronilla glauca.\r\n[14]—Primula villosa.\r\n[15]—Narcissus Jonquilla.\r\
+  \n[16]—Iris variegata.\r\n[17]—Cactus flagelliformis.\r\n[18]—Geranium Reichardi.\r\
+  \n[19]—Hemerocallis Flava.\r\n[20]—Geranium Peltatum.\r\n[21]—Iris Versicolor.\r\
+  \n[22]—Nigella damascena.\r\n[23]—Tropæolum majus.\r\n[24]—Agrostemma coronaria.\r\
+  \n[25]—Dianthus chinensis.\r\n[26]—Stapelia variegata.\r\n[27]—Convolvulus tricolor.\r\
+  \n[28]—Passiflora cœrulea.\r\n[29]—Reseda odorata.\r\n[30]—Lilium chalcedonicum.\r\
+  \n[31]—Jasminum officinale.\r\n[32]—Mesembryanthemum dolabriforme.\r\n[33]—Aster\
+  \ tenellus.\r\n[34]—Browallia elata.\r\n[35]—Crepis barbata.\r\n[36]—Lilium bulbiferum."
+title: "The Botanical Magazine, Vol. 01\r\nOr, Flower-Garden Displayed"
+url: http://www.gutenberg.org/ebooks/17198
